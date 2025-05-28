@@ -1,0 +1,10 @@
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\bin\Debug\paint brush.exe.config
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\bin\Debug\paint brush.exe
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\bin\Debug\paint brush.pdb
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint brush.csproj.AssemblyReference.cache
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint_brush.Form1.resources
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint_brush.Properties.Resources.resources
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint brush.csproj.GenerateResource.cache
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint brush.csproj.CoreCompileInputs.cache
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint brush.exe
+C:\Users\mohab\Desktop\My projects\Coding\Personal project\paintbrush\paint brush\paint brush\obj\Debug\paint brush.pdb
